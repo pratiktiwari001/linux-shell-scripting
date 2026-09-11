@@ -1,0 +1,3 @@
+Hello from my test file
+
+This file is just written for testing purpose of the git stash command in the production use
