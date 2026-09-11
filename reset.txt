@@ -1,3 +1,5 @@
 "THis file is made for checking and understanding git reset command"
 
 "This is wrong commit"
+
+"This is right commit"
